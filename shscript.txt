@@ -1,0 +1,12 @@
+shell script or bash script:
+----------------------------
+
+#!/bin/bash ---> shebang line or hashbang line
+A shebang line, also known as a hashbang or pound-bang, is a special character sequence ( #! ) appearing at the beginning of a script. It specifies which interpreter should be used to execute the script.
+
+If shebang line isn't specified then the script will use default shell for it's execution.
+
+chmod +x file_name
+If you see permission error which executing a file, then execute chmod cmd.
+
+
